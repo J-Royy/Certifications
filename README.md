@@ -1,2 +1,5 @@
-# Certifications
-Every certification/certificate I possess 📚
+- <b>Certifications</b>
+  - [Google IT Support Professional] 
+  - 
+  - 
+  - 

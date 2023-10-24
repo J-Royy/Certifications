@@ -1,4 +1,4 @@
-- <b>Certifications 📚</b>
+- <b>Certifications/Certificates 📚</b>
   - [Google IT Support Professional](https://github.com/J-Royy/Certifications/blob/main/GoogleITSupportProfessional.pdf)
   - 
   - 
